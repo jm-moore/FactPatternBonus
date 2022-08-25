@@ -1,0 +1,15 @@
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\obj\Debug\net6.0\FactPatternBonus.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\obj\Debug\net6.0\FactPatternBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\obj\Debug\net6.0\FactPatternBonus.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\obj\Debug\net6.0\FactPatternBonus.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\obj\Debug\net6.0\FactPatternBonus.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\bin\Debug\net6.0\FactPatternBonus.exe
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\bin\Debug\net6.0\FactPatternBonus.deps.json
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\bin\Debug\net6.0\FactPatternBonus.runtimeconfig.json
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\bin\Debug\net6.0\FactPatternBonus.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\bin\Debug\net6.0\FactPatternBonus.pdb
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\obj\Debug\net6.0\FactPatternBonus.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\obj\Debug\net6.0\refint\FactPatternBonus.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\obj\Debug\net6.0\FactPatternBonus.pdb
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\obj\Debug\net6.0\FactPatternBonus.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\FactPatternBonus\FactPatternBonus\obj\Debug\net6.0\ref\FactPatternBonus.dll
